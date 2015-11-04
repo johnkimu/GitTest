@@ -17,5 +17,9 @@ namespace GitTest
         {
             int age = 4;
         }
-    }
+        public void MethodB()
+        {
+            Console.WriteLine("MethodB")
+        }
+            }
 }
