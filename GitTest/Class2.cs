@@ -8,5 +8,9 @@ namespace GitTest
 {
     class Class2
     {
+        public void A()
+        {
+            return null;
+        }
     }
 }
