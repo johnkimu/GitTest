@@ -10,7 +10,12 @@ namespace GitTest
     {
         public void A()
         {
-            return null;
+            int asdfg = 44444;
+        }
+
+        public void methodA()
+        {
+            int age = 4;
         }
     }
 }
