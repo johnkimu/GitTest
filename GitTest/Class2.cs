@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace GitTest
 {
-    class Test
+    class Class2
     {
-        private int age;
-        public Test(int age_in)
-        {
-            age = age_in;
-        }
     }
 }
